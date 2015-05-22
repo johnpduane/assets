@@ -1,4 +1,12 @@
 //Bootstrap variable overrides for L.L.Bean
-$screen-sm-min: 471px;
-$screen-md-min: 731px;
-$screen-lg-min: 971px;
+$screen-xs:     471px !default;
+$screen-xs-min: $screen-xs !default;
+
+$screen-sm:     471px !default;
+$screen-sm-min: $screen-sm !default;
+
+$screen-md:     731px !default;
+$screen-md-min: $screen-md !default;
+
+$screen-lg:     971px !default;
+$screen-lg-min: $screen-lg !default;
